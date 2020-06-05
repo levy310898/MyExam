@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyExam",
+    "\\MyExam\\home",
+    "\\MyExam\\home\\migrations",
+    "\\MyExam\\home\\static",
+    "\\MyExam\\home\\templates",
+    "\\MyExam\\home\\templates\\home",
+    "\\MyExam\\home\\__pycache__",
+    "\\MyExam\\MyExam"
+  ],
+  "SelectedNode": "\\MyExam\\home\\templates\\home\\sign-in.html",
+  "PreviewInSolutionExplorer": false
+}
