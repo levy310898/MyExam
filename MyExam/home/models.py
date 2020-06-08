@@ -5,6 +5,7 @@ from django.db import models
 class User(models.Model):
     userName = models.CharField(max_length = 200)
     password = models.CharField(max_length = 200)
+    fullname = models.CharField(max_length = 200)
 
 
 class Exam(models.Model):
